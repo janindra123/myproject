@@ -11,3 +11,4 @@ to unlock the pass
 got to git cat path
 then copy the token paste it
 slect suggested pluggins
+to bulid automatically
