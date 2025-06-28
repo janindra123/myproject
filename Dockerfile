@@ -9,3 +9,5 @@ systemctl enable jenkins
 copy public ip :8080
 to unlock the pass
 got to git cat path
+then copy the token paste it
+slect suggested pluggins
