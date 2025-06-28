@@ -7,3 +7,5 @@ systemctl status jenkin
 systemctl start jenkins
 systemctl enable jenkins
 copy public ip :8080
+to unlock the pass
+got to git cat path
